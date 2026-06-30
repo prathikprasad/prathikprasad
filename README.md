@@ -1,10 +1,10 @@
 ## Hello there
 
-# [Your Name]
+# Prathik Prasad
 
 ### XR Designer & UX Prototyper
 
-Turning complex systems into user-centered immersive experiences.
+Turning complex systems into user-centred immersive experiences.
 
 ---
 
@@ -50,7 +50,7 @@ Turning complex systems into user-centered immersive experiences.
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-portfolio.com) · [Email](mailto:your.email@example.com)
+[LinkedIn](https://linkedin.com/in/prathikprasad) · [Portfolio](https://prathikprasad.github.io) · [Email](mailto:prathik.prasad@alumni.fau.de)
 <!--
 **prathikprasad/prathikprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
